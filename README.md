@@ -1,0 +1,2 @@
+# RIO-125-Automate-sentiment-analysis-of-textual-comments-and-feedback
+In today's digital age, online movie reviews play a crucial role in audience decisions and filmmaking strategies. This project proposes an AI-powered sentiment analysis system for movie reviews, offering insights into audience sentiments, marketing strategies, filmmaker feedback, and data-driven decision-making in the film industry.
